@@ -8,7 +8,7 @@ Github repositories I like and find useful
 <p>https://github.com/Lasagne/Lasagne -  neural network tools for Theano  http://lasagne.readthedocs.org/</p>
 <p>https://github.com/saffsd/kaggle-stackoverflow2012 -  My entry to the Kaggle 2012 Stack Overflow competition. Ranked 10th on the final public leaderboard. </p>
 <p>https://github.com/swirldev/swirl_courses -  A collection of interactive courses for the swirl R package. http://swirlstats.com
-<p>https://github.com/sux13/DataScienceSpCourseNotes -  Compiled Notes for all 9 courses in the Coursera Data Science Specialization https://sux13.github.io/DataScienceSpCourseNotes/
+<p>https://github.com/sux13/DataScienceSpCourseNotes -  Compiled Notes for all 9 courses in the Coursera Data Science Specialization https://sux13.github.io/DataScienceSpCourseNotes/</p>
 
 
 <b>Others</b>
