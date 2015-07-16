@@ -30,3 +30,5 @@ Github repositories I like and find useful
 <p>https://github.com/opencart/opencart -  A free shopping cart system. OpenCart is an open source PHP-based online e-commerce solution. http://www.opencart.com</p>
 <p>[Excellent Resource] https://github.com/gaylemcd/ctci - Cracking the Coding Interview </p>
 <p>[Excellent Resource] https://github.com/andreis/interview - Everything you need to kick ass on your coding interview</p>
+<p>https://github.com/moklick/frontend-stuff - A continuously expanded list of framework/libraries and tools I used/want to use when building things on the web. Mostly Javascript stuff. </p>
+<p>https://github.com/lack3r/fullPage.js -  fullPage plugin by Alvaro Trigo. Create full screen pages fast and simple http://alvarotrigo.com/fullPage/</p>
