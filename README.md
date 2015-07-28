@@ -9,7 +9,7 @@ Github repositories I like and find useful
 <p>https://github.com/saffsd/kaggle-stackoverflow2012 -  My entry to the Kaggle 2012 Stack Overflow competition. Ranked 10th on the final public leaderboard. </p>
 <p>https://github.com/swirldev/swirl_courses -  A collection of interactive courses for the swirl R package. http://swirlstats.com
 <p>https://github.com/sux13/DataScienceSpCourseNotes -  Compiled Notes for all 9 courses in the Coursera Data Science Specialization https://sux13.github.io/DataScienceSpCourseNotes/</p>
-
+<p>https://github.com/torch/torch7 - Torch is a scientific computing framework with wide support for machine learning algorithms. </p>
 
 <b>Others</b>
 <p>https://github.com/voat/voat - The code that powers Voat https://voat.co</p>
