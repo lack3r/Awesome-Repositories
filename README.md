@@ -32,3 +32,4 @@ Github repositories I like and find useful
 <p>[Excellent Resource] https://github.com/andreis/interview - Everything you need to kick ass on your coding interview</p>
 <p>https://github.com/moklick/frontend-stuff - A continuously expanded list of framework/libraries and tools I used/want to use when building things on the web. Mostly Javascript stuff. </p>
 <p>https://github.com/lack3r/fullPage.js -  fullPage plugin by Alvaro Trigo. Create full screen pages fast and simple http://alvarotrigo.com/fullPage/</p>
+<p>https://github.com/anvaka/VivaGraphJS Graph drawing library for JavaScript </p>
