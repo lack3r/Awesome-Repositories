@@ -32,5 +32,9 @@ Github repositories I like and find useful
 <p>[Excellent Resource] https://github.com/andreis/interview - Everything you need to kick ass on your coding interview</p>
 <p>https://github.com/moklick/frontend-stuff - A continuously expanded list of framework/libraries and tools I used/want to use when building things on the web. Mostly Javascript stuff. </p>
 <p>https://github.com/lack3r/fullPage.js -  fullPage plugin by Alvaro Trigo. Create full screen pages fast and simple http://alvarotrigo.com/fullPage/</p>
-<p>https://github.com/anvaka/VivaGraphJS Graph drawing library for JavaScript </p>\
+<p>https://github.com/anvaka/VivaGraphJS Graph drawing library for JavaScript </p>
+
+<b>JavaScript</b>
+<p>https://github.com/rwaldron/idiomatic.js Principles of Writing Consistent, Idiomatic JavaScript</p>
+<b>IoT</b>
 <p>https://github.com/rwaldron/johnny-five  JavaScript Robotics and IoT programming framework, developed at Bocoup. Based on Arduino Firmata Protocol http://johnny-five.io</p>
