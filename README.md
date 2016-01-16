@@ -34,6 +34,7 @@ Github repositories I like and find useful
 <p>https://github.com/lack3r/fullPage.js -  fullPage plugin by Alvaro Trigo. Create full screen pages fast and simple http://alvarotrigo.com/fullPage/</p>
 <p>https://github.com/anvaka/VivaGraphJS Graph drawing library for JavaScript </p>
 <p>https://github.com/HelloZeroNet/ZeroNet  ZeroNet - Decentralized websites using Bitcoin crypto and BitTorrent network http://www.reddit.com/r/zeronet/<\p>
+<p>https://github.com/HospitalRun/hospitalrun-frontend Ember front end for HospitalRun http://hospitalrun.io/<\p>
 
 <b>JavaScript</b>
 <p>https://github.com/rwaldron/idiomatic.js Principles of Writing Consistent, Idiomatic JavaScript</p>
