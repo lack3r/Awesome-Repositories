@@ -127,3 +127,12 @@ https://github.com/hakimel/Ladda - Buttons with built-in loading indicators. htt
 https://github.com/nvbn/everpad - Evernote client well integrated with linux desktop
 https://github.com/lack3r/zoom.js - zoom in on any element in the DOM http://lab.hakim.se/zoom-js
 https://github.com/jakevdp/sklearn_scipy2013 - Scikit-learn tutorials for the Scipy 2013 conference
+https://github.com/stemkoski/stemkoski.github.com - http://stemkoski.github.com/Three.js/
+https://github.com/nvbn/everpad - Evernote client well integrated with linux desktop
+https://github.com/JohnLangford/vowpal_wabbit - John Langford's original release of Vowpal Wabbit -- a fast online learning algorithm http://hunch.net/~vw
+https://github.com/alvarotrigo/multiscroll.js - multiscroll plugin by Alvaro Trigo. Create full screen pages with two scrolling sections per page.
+https://github.com/onurakpolat/awesome-bigdata - A curated list of awesome big data frameworks, ressources and other awesomeness. https://github.com/onurakpolat/awesome-bigdata
+https://github.com/caesar0301/awesome-public-datasets - An awesome list of high-quality datasets in public domains (on-going).
+https://github.com/josephmisiti/awesome-machine-learning - A curated list of awesome Machine Learning frameworks, libraries and software
+https://github.com/kennyledet/Algorithm-Implementations - Share, discuss and learn about algorithm implementations! http://algorithm.zone
+https://github.com/sorrycc/awesome-javascript - A collection of awesome browser-side JavaScript libraries, resources and shiny things
