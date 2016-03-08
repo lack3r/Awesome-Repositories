@@ -40,3 +40,40 @@ Github repositories I like and find useful
 <p>https://github.com/rwaldron/idiomatic.js Principles of Writing Consistent, Idiomatic JavaScript</p>
 <b>IoT</b>
 <p>https://github.com/rwaldron/johnny-five  JavaScript Robotics and IoT programming framework, developed at Bocoup. Based on Arduino Firmata Protocol http://johnny-five.io</p>
+
+https://github.com/defaultnamehere/zzzzz
+https://github.com/mattermost/platform - Open source Slack-alternative in Golang and React - Mattermost http://mattermost.org — 
+https://github.com/vicky002/AlgoWiki - Repository which contains all the links and resources on different topics of Computer Science http://www.algowiki.in — 
+https://github.com/petele/HomeOnNode - Home automation
+https://github.com/maxogden/dat - open source peer to peer data sharing http://dat-data.com — 
+https://github.com/hashicorp/vault - A tool for managing secrets. http://vaultproject.io
+https://github.com/yabwe/medium-editor - Medium.com WYSIWYG editor clone. Uses contenteditable API to implement a rich text solution. https://yabwe.github.io/medium-editor/ —
+https://github.com/iron-io/dockers - Uber tiny Docker images for all the things. http://www.iron.io — 
+https://github.com/maxogden/art-of-node -  a short introduction to node.js https://github.com/maxogden/art-of-node#the-art-of-nod
+https://github.com/leftstick/angular-sweetalert - An angular directive which expose sweetalert in angular way http://leftstick.github.io/angular-sweetalert/
+https://github.com/ether/etherpad-lite - Etherpad: Really real-time collaborative document editing http://etherpad.org
+https://github.com/fluuuid/codedoodl.es - A curated showcase of creative coding sketches http://codedoodl.es
+https://github.com/jlevy/the-art-of-command-line- Master the command line, in one page
+https://github.com/etsy/mixer- a tool to initiate meetings by randomly pairing individuals
+https://github.com/danielquinn/paperless - Scan, index, and archive all of your paper documents
+https://github.com/etsy/deployinator - Deployinate! http://etsy.me/deployinator
+https://github.com/addyosmani/a11y - Accessibility audit tooling for the web (beta) http://addyosmani.github.io/a11y/
+https://github.com/lack3r/opsweekly - On call alert classification and reporting
+https://github.com/Laverna/laverna - Laverna is a JavaScript note taking application with Markdown editor and encryption support. Consider it like open source alternative to Evernote. https://laverna.cc/index.html
+https://github.com/daneden/animate.css - A cross-browser library of CSS animations. As easy to use as an easy thing. http://daneden.github.io/animate.css
+https://github.com/Selz/plyr - A simple HTML5, YouTube and Vimeo player http://plyr.io
+https://github.com/jakiestfu/off-the-rip - Downloads audio, artwork, and metadata from Soundcloud 
+https://github.com/krmaxwell/coding-entertainment - Puzzles, challenges, games, CTFs, and other entertainment via coding
+https://github.com/remie/YouTransfer - The simple but elegant self-hosted file transfer & sharing solution http://www.youtransfer.io
+https://github.com/pinterest/teletraan - Teletraan is Pinterest's deploy system
+https://github.com/etsy/AndroidStaggeredGrid - An Android staggered grid view which supports multiple columns with rows of varying sizes. https://github.com/etsy/AndroidStaggeredGrid
+https://github.com/StevenBlack/hosts - Extending and consolidating hosts files from a variety of sources like adaway.org, mvps.org, malwaredomains.com, someonewhocares.org, yoyo.org, and potentially others.
+https://github.com/scottschiller/SoundManager2 - A JavaScript Sound API supporting MP3, MPEG4 and HTML5 audio + RTMP, providing reliable cross-browser/platform audio control in as little as 12 KB. BSD licensed. http://www.schillmania.com/projects/soundmanager2
+https://github.com/sindresorhus/awesome-electron - Useful resources for creating apps with Electron
+https://github.com/phanan/koel - A personal music streaming server that works. http://koel.phanan.net
+https://github.com/minimaxir/big-list-of-naughty-strings - The Big List of Naughty Strings is a list of strings which have a high probability of causing issues when used as user-input data
+https://github.com/google/protobuf - Protocol Buffers - Google's data interchange format https://developers.google.com/protocol-buffers/
+https://github.com/kriasoft/react-starter-kit - React Starter Kit — a skeleton of an "isomorphic" web application / SPA built with React.js, Express, Flux, ES6+, JSX, Babel, PostCSS, Webpack, BrowserSync... http://www.reactstarterkit.com
+https://github.com/inveniosoftware/invenio - Invenio digital library software http://invenio-software.org
+https://github.com/silverwind/droppy - Self-hosted cloud server with a convenient web interface
+https://github.com/Itseez/opencv - Open Source Computer Vision Library http://opencv.org
