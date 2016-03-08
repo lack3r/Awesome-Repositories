@@ -136,3 +136,5 @@ https://github.com/caesar0301/awesome-public-datasets - An awesome list of high-
 https://github.com/josephmisiti/awesome-machine-learning - A curated list of awesome Machine Learning frameworks, libraries and software
 https://github.com/kennyledet/Algorithm-Implementations - Share, discuss and learn about algorithm implementations! http://algorithm.zone
 https://github.com/sorrycc/awesome-javascript - A collection of awesome browser-side JavaScript libraries, resources and shiny things
+https://github.com/karpathy/karpathy.github.io
+* [droppy - Self-hosted cloud server with a convenient web interface] (https://github.com/silverwind/droppy) - That's an amazing project. Can be used for personal purposes.
