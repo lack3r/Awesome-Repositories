@@ -1,4 +1,4 @@
-#WARNING: This repository is not tidy and not organised! I will organise this material at at some moment (I hope)
+#WARNING: This repository is not tidy and not organised. I will organise this material at some moment (I hope)
 
 # Awesome-Repositories
 Github repositories I like and find useful
