@@ -10,7 +10,9 @@ Github repositories I like and find useful
 <p>https://github.com/swirldev/swirl_courses -  A collection of interactive courses for the swirl R package. http://swirlstats.com
 <p>https://github.com/sux13/DataScienceSpCourseNotes -  Compiled Notes for all 9 courses in the Coursera Data Science Specialization https://sux13.github.io/DataScienceSpCourseNotes/</p>
 <p>https://github.com/torch/torch7 - Torch is a scientific computing framework with wide support for machine learning algorithms. </p>
-
+https://github.com/johnmyleswhite/ML_for_Hackers - Code accompanying the book "Machine Learning for Hackers" http://shop.oreilly.com/product/0636920018483.do
+https://github.com/jakevdp/sklearn_scipy2013 - Scikit-learn tutorials for the Scipy 2013 conference
+https://github.com/jakevdp/sklearn_pycon2013 - Files for my scikit-learn tutorial at PyCon 2013
 <b>Others</b>
 <p>https://github.com/voat/voat - The code that powers Voat https://voat.co</p>
 <p>https://github.com/feross/webtorrent - Streaming torrent client for node & the browser https://webtorrent.io</p>
@@ -77,3 +79,51 @@ https://github.com/kriasoft/react-starter-kit - React Starter Kit — a skeleton
 https://github.com/inveniosoftware/invenio - Invenio digital library software http://invenio-software.org
 https://github.com/silverwind/droppy - Self-hosted cloud server with a convenient web interface
 https://github.com/Itseez/opencv - Open Source Computer Vision Library http://opencv.org
+https://github.com/wsargent/docker-cheat-sheet - Docker Cheat Sheet
+https://github.com/ciconia/awesome-music - Awesome Music Projects
+https://github.com/lack3r/javascript-for-cats - an introduction to the javascript programming language. intended audience: cats http://jsforcats.com
+https://github.com/lack3r/thermostat - A place for all things related to ye olde Spark Thermostat Hackathon
+https://github.com/hakimel/stroll.js - CSS3 list scroll effects http://lab.hakim.se/scroll-effects
+https://github.com/hakimel/forkit.js - an animated GitHub ribbon
+
+https://github.com/kennycason/ultimate_tictactoe - Ultimate Tic Tac Toe - HTML5
+https://github.com/nzakas/computer-science-in-javascript - Collection of classic computer science paradigms, algorithms, and approaches written in JavaScript. http://www.nczonline.net/
+https://github.com/hakimel/kontext - A context-shift transition inspired by iOS
+https://github.com/timbjames/Stacks - Stacks
+https://github.com/willowsystems/jSignature - jQuery plugin - draw signature in browser
+https://github.com/ashee/cv - CV, typesetted in Helvetica Neue, using XeTeX, TikZ and Biblatex
+https://github.com/lack3r/vagrant - Vagrant is a tool for building and distributing development environments. http://www.vagrantup.com
+https://github.com/jtleek/datasharing - The Leek group guide to data sharing 
+https://github.com/jfirebaugh/animations - D3.js animations, one each day http://jfire.io/animations/
+https://github.com/lack3r/Projects - A list of practical projects that anyone can solve in any programming language. http://eepurl.com/SRIPT
+https://github.com/irungentoo/toxcore - The future of online communications. https://tox.im
+https://github.com/pgbovine/OnlinePythonTutor - Learn Python by executing code online and visualizing data structures http://pythontutor.com
+https://github.com/github/linguist - Language Savant. If your repository's language is being reported incorrectly, send us a pull request
+https://github.com/overtone/overtone - Collaborative Programmable Music http://overtone.github.io
+https://github.com/VincentGarreau/particles.js - http://vincentgarreau.com/particles.js
+https://github.com/hackappcom/ibrute - brute force apple
+https://github.com/google/deepdream - deepdream
+https://github.com/papers-we-love/papers-we-love - Papers from the computer science community to read and discuss. http://paperswelove.org/
+https://github.com/sindresorhus/awesome-nodejs - A curated list of delightful Node.js packages and resources.
+https://github.com/vhf/free-programming-books - List of Free Learning Resources http://resrc.io/list/10/list-of-free-programming-books
+https://github.com/sindresorhus/awesome - A curated list of awesome lists
+https://github.com/cctuan/mosaic - Photomosaic
+https://github.com/Pczek/papr - Command line tool to generate a PDF template for a small foldable paper calendar http://calendar.mapoftea.com/
+https://github.com/mrdoob/three.js - JavaScript 3D library. http://threejs.org
+https://github.com/wekan/wekan - An open-source kanban board http://git.libreboard.com/libreboard/libreboard/tree/
+https://github.com/isohuntto/openbay - We, the team that brought you isoHunt and oldpiratebay.org bring you the next step in torrent evolution. The Pirate Bay source code
+https://github.com/mozilla/togetherjs - A service for your website that makes it surprisingly easy to collaborate in real-time. https://togetherjs.com
+https://github.com/FezVrasta/bootstrap-material-design - Material design theme for Bootstrap 3 http://fezvrasta.github.io/bootstrap-material-design/
+https://github.com/hakimel/css - Assorted CSS and UI experiments. http://lab.hakim.se
+https://github.com/videojs/video.js - Video.js - open source HTML5 & Flash video player http://www.videojs.com
+https://github.com/petele/PiHomeControl - a Raspberry Pi home automation controller
+https://github.com/Codility/cui - Candidate User Interface
+https://github.com/kristopolous/BOOTSTRA.386 - A Twitter Bootstrap theme to make webpages look like they are from the 1980s
+https://github.com/edsu/anon - tweet about anonymous Wikipedia edits from particular IP address ranges https://twitter.com/congressedits
+https://github.com/lack3r/mpld3 - D3 Renderings of Matplotlib Graphics http://mpld3.github.i
+https://github.com/matplotlib/matplotlib - matplotlib: plotting with Python http://matplotlib.org/
+https://github.com/hakimel/reveal.js - The HTML Presentation Framework http://lab.hakim.se/reveal-js
+https://github.com/hakimel/Ladda - Buttons with built-in loading indicators. http://lab.hakim.se/ladda
+https://github.com/nvbn/everpad - Evernote client well integrated with linux desktop
+https://github.com/lack3r/zoom.js - zoom in on any element in the DOM http://lab.hakim.se/zoom-js
+https://github.com/jakevdp/sklearn_scipy2013 - Scikit-learn tutorials for the Scipy 2013 conference
