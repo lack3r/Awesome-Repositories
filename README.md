@@ -140,3 +140,4 @@ https://github.com/kennyledet/Algorithm-Implementations - Share, discuss and lea
 https://github.com/sorrycc/awesome-javascript - A collection of awesome browser-side JavaScript libraries, resources and shiny things
 https://github.com/karpathy/karpathy.github.io
 * [droppy - Self-hosted cloud server with a convenient web interface] (https://github.com/silverwind/droppy) - That's an amazing project. Can be used for personal purposes.
+* https://github.com/sophron/wifiphisher - Automated phishing attacks against Wi-Fi networks
