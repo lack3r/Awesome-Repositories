@@ -19,6 +19,7 @@ Github repositories I like and find useful
 
 ## Web Dev
 * https://github.com/benhowdle89/grade - This JavaScript library produces complementary gradients generated from the top 2 dominant colours in supplied images.http://benhowdle.im/grade
+
 ## Others
 * https://github.com/voat/voat - The code that powers Voat https://voat.co
 * https://github.com/feross/webtorrent - Streaming torrent client for node & the browser https://webtorrent.io
